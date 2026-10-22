@@ -1,0 +1,18 @@
+# dipendenze
+node_modules/
+__pycache__/
+*.pyc
+
+# build
+build/
+dist/
+
+# segreti — MAI caricare su GitHub
+.env
+.env.local
+
+# sistema
+.DS_Store
+*.log
+.venv/
+venv/
